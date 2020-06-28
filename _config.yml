@@ -1,1 +1,9 @@
 theme: jekyll-theme-leap-day
+title: A coder's journey
+
+Hello World! The Journey starts here. 
+
+do
+{
+  coding()
+} while (day && week && month && year)
